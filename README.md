@@ -12,8 +12,7 @@ The data used in this study is provided under request to the owners of the datab
 
 ## Getting the code
 
-You can download a copy of all the files in this repository by cloning the
-[git](https://git-scm.com/) repository:
+You can download a copy of all the files in this repository by cloning the repository:
 
     git clone https://github.com/orgs/BYO-UPM/repositories.git
 
